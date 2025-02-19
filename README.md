@@ -1,6 +1,6 @@
 # naukri-website-clone 
 
-## [Deployed Link] (naukari-com-clone-eosin.vercel.app)  
+## [Deployed Link](naukari-com-clone-eosin.vercel.app)  
 
 ## TASK
 
